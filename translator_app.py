@@ -23,8 +23,7 @@ def do_translation():
  
 st.markdown("## :rainbow[Machine Translation]")
 
-default_text = """Artificial intelligence (AI) has been used in applications throughout industry and academia. Similar to electricity or computers, AI serves as a general-purpose technology that has numerous applications. 
-Its applications span language translation, image recognition, decision-making, credit scoring, e-commerce and various other domains.
+default_text = """Hi Claire, I am Miki. I love you. <333
 """
 with st.form("translate"):
    # https://developers.google.com/admin-sdk/directory/v1/languages
